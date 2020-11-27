@@ -1,0 +1,14 @@
+{
+  "name": "mingan-private-bot-server",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Keenzhal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
